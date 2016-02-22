@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/help_background">
+    <LinearLayout 
+        android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+	    android:orientation="vertical"
+	    android:layout_weight="2" >
+  		<LinearLayout 
+	        android:layout_width="fill_parent"
+		    android:layout_height="fill_parent"
+		    android:layout_weight="2" >
+	  		<TextView 
+	  		    android:layout_width="fill_parent"
+		   		android:layout_height="fill_parent"
+		   		android:layout_margin="1dp"
+		   		android:text="  支持多符号表达式计算"
+		   		android:gravity="center_vertical"
+		   		android:textColor="#ffffff"
+		   		android:textSize="18sp"
+		   		android:background="#33ffffff"/>
+	    </LinearLayout>
+	    <LinearLayout 
+	        android:layout_width="fill_parent"
+		    android:layout_height="fill_parent"
+		    android:orientation="vertical"
+		    android:layout_weight="2" >
+	  		<TextView 
+	  		    android:layout_width="fill_parent"
+		   		android:layout_height="fill_parent"
+		   		android:text="  点击 ● 即可关闭音乐"
+		   		android:gravity="center_vertical"
+		   		android:textColor="#ffffff"
+		   		android:textSize="18sp"
+		   		android:layout_margin="1dp"
+		   		android:background="#33ffffff"/>
+	    </LinearLayout>
+	    <LinearLayout 
+	        android:layout_width="fill_parent"
+		    android:layout_height="fill_parent"
+		    android:orientation="vertical"
+		    android:layout_weight="2" >
+	  		<TextView 
+	  		    android:layout_width="fill_parent"
+		   		android:layout_height="fill_parent"
+		   		android:text="  点击 ○ 即可开启音乐"
+		   		android:gravity="center_vertical"
+		   		android:textColor="#ffffff"
+		   		android:textSize="18sp"
+		   		android:layout_margin="1dp"
+		   		android:background="#33ffffff"/>
+	    </LinearLayout>
+	    <LinearLayout 
+	        android:layout_width="fill_parent"
+		    android:layout_height="fill_parent"
+		    android:orientation="vertical"
+		    android:layout_weight="2" >
+	  		<TextView 
+	  		    android:layout_width="fill_parent"
+		   		android:layout_height="fill_parent"
+		   		android:text="  1~8为钢琴音"
+		   		android:gravity="center_vertical"
+		   		android:textColor="#ffffff"
+		   		android:textSize="18sp"
+		   		android:layout_margin="1dp"
+		   		android:background="#33ffffff"/>
+	    </LinearLayout>
+	    <LinearLayout 
+	        android:layout_width="fill_parent"
+		    android:layout_height="fill_parent"
+		    android:orientation="vertical"
+		    android:layout_weight="2" >
+	  		<TextView 
+	  		    android:layout_width="fill_parent"
+		   		android:layout_height="fill_parent"
+		   		android:text="  其余为架子鼓声"
+		   		android:gravity="center_vertical"
+		   		android:textColor="#ffffff"
+		   		android:textSize="18sp"
+		   		android:layout_margin="1dp"
+		   		android:background="#33ffffff"/>
+	    </LinearLayout>
+	</LinearLayout>
+    <LinearLayout 
+        android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+	    android:orientation="vertical"
+	    android:layout_weight="2" >
+  		
+    </LinearLayout>
+</LinearLayout>

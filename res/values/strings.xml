@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">计算器</string>
-    <string name="action_settings">Settings</string>
+    <string name="app_name">音乐计算器</string>
     <string name="hello_world">Hello world!</string>
     <string name="button0">C</string>
     <string name="text">计算器</string>
@@ -25,5 +24,6 @@
     <string name="t1">●</string>
     <string name="t2">^</string>
     <string name="t3">←</string>
-    
+    <string name="add">关于</string>
+    <string name="help">帮助</string>
 </resources>

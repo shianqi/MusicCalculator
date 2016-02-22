@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <LinearLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:orientation="vertical"
+		android:background="#990066"
+	    android:layout_weight="5" >
+	    <TextView 
+	        android:layout_width="match_parent"
+	  		android:layout_height="match_parent"
+	  		android:gravity="center"
+	        android:text="感谢有你"
+	        android:textColor="#ffffff"
+	        android:textStyle="bold"
+	        android:textSize="35sp"/>
+	</LinearLayout>
+	<LinearLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:orientation="vertical" 
+	    android:layout_weight="3">
+	    <TextView 
+	        android:layout_width="match_parent"
+	  		android:layout_height="match_parent"
+	  		android:gravity="center_horizontal"
+	        android:text="  \nimudges 张怀文\nimudges 钟华\nimudges 胡鹏\n"
+	        android:textStyle="bold"
+	        android:textSize="20sp"/>
+	</LinearLayout>
+</LinearLayout>
